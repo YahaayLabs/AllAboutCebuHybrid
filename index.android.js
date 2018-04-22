@@ -1,11 +1,10 @@
-/**
- * AllAboutCebu Android entry file
- *
- * @jpatambag
- */
-
+// /**
+//  * AllAboutCebu Android entry file
+//  *
+//  * @jpatambag
+//  */
 
 import { AppRegistry } from 'react-native';
-import AllAboutCebu from './src/AllAboutCebuApp'
+import ReactNativeFolderStructure from './src/AllAboutCebuApp'
 
-AppRegistry.registerComponent('AllAboutCebu', () => AllAboutCebu);
+AppRegistry.registerComponent('ReactNativeFolderStructure', () => ReactNativeFolderStructure);
